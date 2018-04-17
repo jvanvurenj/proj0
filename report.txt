@@ -1,0 +1,9 @@
+REPORT:
+Date.c:
+it appears that in date.c, if I duplicate a date and then try to compare it, I get a segfault. 
+Besides this, date it tested and works.
+No leaks on valgrind, however there are "errors" having all to do with use of atoi();
+
+TLDMap.c:
+Finished, however not tested very well or very much. 
+No leaks or error on valgrind.
