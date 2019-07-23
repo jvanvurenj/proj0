@@ -1,5 +1,4 @@
 /* AUTHOR: Jackson VanVuren
-DUCKID: 951453829
 CIS415 Project 0
 
 Note: This is all my own work, except the general format is based off of our in class queue example by Joe Sventek.
